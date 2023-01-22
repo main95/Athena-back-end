@@ -1,2 +1,2 @@
 # Athena-back-end
-Back end for the Athena library management system
+This repository is the back-end of Athena-library-management-system repo
